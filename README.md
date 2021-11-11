@@ -9,7 +9,7 @@ serv.py, cli.py:
 
 ![pp2 1](https://user-images.githubusercontent.com/91433112/141378544-7030ba33-cc09-40f6-80a9-a23b7f7a7ba2.png)
 
-У пользователя спрашивается номер порта и номер хоста
+У пользователя спрашивается номер порта и номер хоста, реализована отправка и принятие текстовых сообщений через сокет
 
 ![pp2 1](https://user-images.githubusercontent.com/91433112/141378773-676c53b2-d2f4-4bda-8ffa-f83d20d2e21a.png)
 
@@ -21,10 +21,16 @@ serv.py, cli.py:
 
 ![pp2 1](https://user-images.githubusercontent.com/91433112/141379567-c4881478-b42a-4f71-b500-cc0133b42d24.png)
 
-Реализована отправка и принятие текстовых сообщений через сокет, сведения о пользователях сохраняются в файл cli_info:
+Cведения о пользователях сохраняются в файл cli_info:
+
+![pp2 4](https://user-images.githubusercontent.com/91433112/141380268-4b93539b-299b-4f43-bd01-6d0e781210ad.png)
+
+sserver.py, cli.py - Задание 5, с сохранением служебных сообщений в лог-файл, а не в консоль
+
+![pp2 7](https://user-images.githubusercontent.com/91433112/141380287-1a00ff71-8436-43f2-8a5a-ce54f731280d.png)
+
+![pp2 5](https://user-images.githubusercontent.com/91433112/141380296-7534cff5-7c99-4846-be01-027ad0aaddd1.png)
 
 
 
 
-
-sserver.py, cli.py - Задание 5, с сохранением служебных сообщений в лог-файл
